@@ -1,0 +1,12 @@
+﻿GameClub.API/bin
+GameClub.API/obj
+GameClub.API.Test/obj
+GameClub.Data/obj
+GameClub.Infrastructure/obj
+GameClub.Repository/bin
+GameClub.Repository/obj
+GameClub.Repository.Test/obj
+GameClub.Serivces/bin
+GameClub.Serivces/obj
+GameClub.Services.Test/bin
+GameClub.Services.Test/obj

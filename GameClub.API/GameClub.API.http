@@ -1,0 +1,6 @@
+@GameClub.API_HostAddress = http://localhost:5113
+
+GET {{GameClub.API_HostAddress}}/clubs/
+Accept: application/json
+
+###
